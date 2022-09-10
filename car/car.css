@@ -1,0 +1,13 @@
+/* logo */
+.logo{
+    width: 350px;
+    height: 100px;
+}
+/* nav */
+.nav{
+    list-style-type: none;
+     margin: -10px;
+     padding: 0;
+     overflow: hidden;
+     background-color: whitesmoke;
+   }

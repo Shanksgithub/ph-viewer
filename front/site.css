@@ -1,0 +1,207 @@
+*{
+    background-color: BLUE; 
+}
+.jb{
+    color: white;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+/* logo */
+.logo{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 100px;
+}   
+/* nav */
+.nav{
+ list-style-type: none;
+  margin: -10px;
+  padding: 0;
+  overflow: hidden;
+  background-color: whitesmoke;
+}
+/* NCR */
+.ncrpic{
+    width: 900px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border:  solid black;
+}
+.ncrpic:hover {
+ opacity: 0.6;
+}
+/* CAR */
+.carpic{
+    width: 940px;
+    height: 680px;
+    margin-top: 200px;
+    margin-left: 880px;
+    border: 4px solid black;
+}
+.carpic:hover {
+    opacity: 0.6;
+}
+/* REG1 */
+.reg1pic{
+    width: 1000px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg1pic:hover {
+    opacity: 0.6;
+}
+/* REG2 */
+.reg2pic{
+    width: 1000px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 820px;
+    border: 4px solid black;
+}
+.reg2pic:hover {
+    opacity: 0.6;
+}
+/* REG3 */
+.reg3pic{
+    width: 1000px;
+    height: 680px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg3pic:hover {
+    opacity: 0.6;
+}
+/* REG4A */
+.reg4apic{
+    width: 900px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 920px;
+    border: 4px solid black;
+}
+.reg4apic:hover {
+    opacity: 0.6;
+}
+/* REG4B */
+.reg4bpic{
+    width: 900px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg4bpic:hover {
+    opacity: 0.6;
+}
+/* REG5 */
+.reg5pic{
+    width: 900px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 920px;
+    border: 4px solid black;
+}
+.reg5pic:hover {
+    opacity: 0.6;
+}
+/* REG6 */
+.reg6pic{
+    width: 900px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg6pic:hover {
+    opacity: 0.6;
+}
+/* REG7 */
+.reg7pic{
+    width: 900px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 920px;
+    border: 4px solid black;
+}
+.reg7pic:hover {
+    opacity: 0.6;
+}
+/* REG8 */
+.reg8pic{
+    width: 1000px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg8pic:hover {
+    opacity: 0.6;
+}
+/* REG9 */
+.reg9pic{
+    width: 1000px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 820px;
+    border: 4px solid black;
+}
+.reg9pic:hover {
+    opacity: 0.6;
+}
+/* REG10 */
+.reg10pic{
+    width: 1000px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg10pic:hover {
+    opacity: 0.6;
+}
+/* REG11 */
+.reg11pic{
+    width: 1100px;
+    height: 800px;
+    margin-top: 200px;
+    margin-left: 720px;
+    border: 4px solid black;
+}
+.reg11pic:hover {
+    opacity: 0.6;
+}
+/* REG12 */
+.reg12pic{
+    width: 1000px;
+    height: 680px;
+    margin-top: 200px;
+    margin-left: 60px;
+    border: 4px solid black;
+}
+.reg12pic:hover {
+    opacity: 0.6;
+}
+.reg13pic{
+    width: 1000px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 820px;
+    border: 4px solid black;
+}
+.reg13pic:hover {
+    opacity: 0.6;
+}
+.barmmpic{
+    width: 700px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 200px;
+    border: 4px solid black;
+}
+.barmmpic:hover {
+    opacity: 0.6;
+}
